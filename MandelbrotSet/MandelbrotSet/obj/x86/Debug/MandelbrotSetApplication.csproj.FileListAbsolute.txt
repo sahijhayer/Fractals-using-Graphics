@@ -1,0 +1,43 @@
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\OneDrive\Documents\Visual Studio 2010\Projects\CSharp\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.CoreCompileInputs.cache
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\stopf\OneDrive\Documents\Visual Studio 2010\Projects\CSharp for Students\6. Vectors and Graphics\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojAssemblyReference.cache
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.cache
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.CoreCompileInputs.cache
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\sahij\Documents\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
