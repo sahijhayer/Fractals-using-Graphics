@@ -1,0 +1,2 @@
+# Fractals-using-Graphics
+Using a template for the Mandelbrot set generation in C# Graphics, this application uses the Complex class to generate Julia sets depending on the user's selected coordinate on the complex plane. It also generates the Pythagoras Tree and Koch Snowflake using recursion and a custom Vector class. The user inputs a depth for the number of times the recursive algorithm will be performed, and all of these fractals are displayed using the Graphics library in C#.
